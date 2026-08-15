@@ -59,3 +59,10 @@ An interactive, real-time 3D visualization of our solar system built with **Thre
 | ♆ Neptune | Deep blue, Great Dark Spot |
 
 ## 📁 Project Structure
+
+Solar-System-3D/
+├── index.html
+├── README.md
+└── assets/
+    ├── solar-system-preview.png
+    └── features-mindmap.png
